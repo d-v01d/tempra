@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EEC20C995766A6C10F5D4CB6C0B013047CF33532",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "86B4EA521D9A1344D450C91D8EB1D96AD0BFDAAE" : 9223372036854775807,
+    "EEC20C995766A6C10F5D4CB6C0B013047CF33532" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4967C055-E2CC-431B-886C-E19F8B1B1F2E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "86B4EA521D9A1344D450C91D8EB1D96AD0BFDAAE" : "Tempra\/Tempra\/",
+    "EEC20C995766A6C10F5D4CB6C0B013047CF33532" : "Tempra\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tempra",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tempra.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/d-v01d\/Tempra.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86B4EA521D9A1344D450C91D8EB1D96AD0BFDAAE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/d-v01d\/Tempra.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEC20C995766A6C10F5D4CB6C0B013047CF33532"
+    }
+  ]
+}
